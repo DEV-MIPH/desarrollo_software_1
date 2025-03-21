@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Actividad1Application<actividad1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.desarrollo.actividad1.actividad1.Actividad1Application",
+            "projectName": "actividad1",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
