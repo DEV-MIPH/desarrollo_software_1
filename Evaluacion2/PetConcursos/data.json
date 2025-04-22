@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1,
+        "idMascota": 201,
+        "idConductor": 302,
+        "fechaViaje": "2025-05-10",
+        "horaViaje": "14:30:00",
+        "lugarRecogida": "Av. Brasil 2150, Valparaíso",
+        "lugarDestino": "Cerro Alegre, Valparaíso",
+        "estadoViaje": "En curso",
+        "costoViaje": 5500.00
+    },
+    {
+        "id": 2,
+        "idMascota": 203,
+        "idConductor": 301,
+        "fechaViaje": "2025-05-12",
+        "horaViaje": "09:00:00",
+        "lugarRecogida": "Plaza Sotomayor, Valparaíso",
+        "lugarDestino": "Viña del Mar",
+        "estadoViaje": "Completado",
+        "costoViaje": 12000.00
+    },
+    {
+        "id": 3,
+        "idMascota": 202,
+        "idConductor": "CON305",
+        "fechaViaje": "2025-05-15",
+        "horaViaje": "17:45:00",
+        "lugarRecogida": "Subida Ecuador, Valparaíso",
+        "lugarDestino": "Reñaca, Viña del Mar",
+        "estadoViaje": "Pendiente",
+        "costoViaje": 10500.00
+    },
+    {
+        "id": 4,
+        "idMascota": 205,
+        "idConductor": 303,
+        "fechaViaje": "2025-05-18",
+        "horaViaje": "11:15:00",
+        "lugarRecogida": "Calle Condell 123, Valparaíso",
+        "lugarDestino": "Cerro Concepción, Valparaíso",
+        "estadoViaje": "Cancelado",
+        "costoViaje": 3000.00
+    },
+    {
+        "id": 5,
+        "idMascota": 204,
+        "idConductor": 304,
+        "fechaViaje": "2025-05-20",
+        "horaViaje": "20:00:00",
+        "lugarRecogida": "Avenida Alemania, Valparaíso",
+        "lugarDestino": "Quilpué",
+        "estadoViaje": "Pendiente",
+        "costoViaje": 15000.00
+    }
+]
+  [
+    {
+        "idPropietario": 101,
+        "nombrePropietario": "Ana",
+        "apellidoPropietario": "Pérez",
+        "telefonoPropietario": "+56912345678"
+    },
+    {
+        "idPropietario": 102,
+        "nombrePropietario": "Carlos",
+        "apellidoPropietario": "González",
+        "telefonoPropietario": "+56987654321"
+    },
+    {
+        "idPropietario": 103,
+        "nombrePropietario": "Sofía",
+        "apellidoPropietario": "Martínez",
+        "telefonoPropietario": "+56955551111"
+    },
+    {
+        "idPropietario": 104,
+        "nombrePropietario": "Javier",
+        "apellidoPropietario": "Rodríguez",
+        "telefonoPropietario": "+56922228888"
+    },
+    {
+        "idPropietario": 105,
+        "nombrePropietario": "Valentina",
+        "apellidoPropietario": "Soto",
+        "telefonoPropietario": "+56977773333"
+    }
+]
+  [
+    {
+        "idMascota": 201,
+        "idOwner": 101,
+        "nombreMascota": "Max",
+        "tipoMascota": "Perro",
+        "razaMascota": "Golden Retriever"
+    },
+    {
+        "idMascota": 202,
+        "idOwner": 103,
+        "nombreMascota": "Luna",
+        "tipoMascota": "Gato",
+        "razaMascota": "Siamese"
+    },
+    {
+        "idMascota": 203,
+        "idOwner": 102,
+        "nombreMascota": "Rocky",
+        "tipoMascota": "Perro",
+        "razaMascota": "Bulldog Francés"
+    },
+    {
+        "idMascota": 204,
+        "idOwner": 105,
+        "nombreMascota": "Milo",
+        "tipoMascota": "Gato",
+        "razaMascota": "Persa"
+    },
+    {
+        "idMascota": 205,
+        "idOwner": 104,
+        "nombreMascota": "Coco",
+        "tipoMascota": "Perro",
+        "razaMascota": "Poodle"
+    }
+]
+  [
+    {
+        "idConductor": 301,
+        "nombreConductor": "Pedro",
+        "apellidoConductor": "López",
+        "telefonoConductor": "+56998765432"
+    },
+    {
+        "idConductor": 302,
+        "nombreConductor": "María",
+        "apellidoConductor": "Flores",
+        "telefonoConductor": "+56932165498"
+    },
+    {
+        "idConductor": 303,
+        "nombreConductor": "Andrés",
+        "apellidoConductor": "Vargas",
+        "telefonoConductor": "+56965498732"
+    },
+    {
+        "idConductor": 304,
+        "nombreConductor": "Laura",
+        "apellidoConductor": "Jiménez",
+        "telefonoConductor": "+56911223344"
+    },
+    {
+        "idConductor": 305,
+        "nombreConductor": "Diego",
+        "apellidoConductor": "Ruiz",
+        "telefonoConductor": "+56944556677"
+    }
+]
