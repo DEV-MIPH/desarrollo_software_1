@@ -30,8 +30,8 @@ public class PetConcursosController {
     @Autowired
     private PetConcursoService petConcursoService;
 
-    @GetMapping("")
-    public ResponseEntity<?> getConcurso() {
+    @GetMapping("concursos")
+    public ResponseEntity<?> getConcursos() {
         log.info("Obteniendo todos los concursos");
         List<Concurso> concursos = petConcursoService.obtenerConcursos();
         if (concursos.isEmpty()) {

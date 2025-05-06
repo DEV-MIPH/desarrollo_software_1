@@ -27,6 +27,9 @@ public class PetConcursoService {
     @Autowired
     private PetOwnerRepository petOwnerRepo;
 
+    // public PetConcursoService(ConcursoRepository concursoRepository) {
+    //     this.concursoRepository = concursoRepository;
+    // }
     public List<Pet> obtenerMascotas() {
         log.info("Obteniendo mascotas");
         List<Pet> mascotas = petRepo.findAll();

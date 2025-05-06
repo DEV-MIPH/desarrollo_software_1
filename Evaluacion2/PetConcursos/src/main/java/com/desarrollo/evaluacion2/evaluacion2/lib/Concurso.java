@@ -22,7 +22,7 @@ public class Concurso
     @NotNull
     private int id;
     private int idMascota;
-    private int IdPropietario;
+    private int idPropietario;
     private int precio;
     private String nombre;
     private String descripcion;
@@ -81,9 +81,9 @@ public class Concurso
     }
 
     public int getIdPropietario() {
-        return IdPropietario;
+        return idPropietario;   
     }
     public void setIdPropietario(int idPropietario) {
-        IdPropietario = idPropietario;
+        this.idPropietario = idPropietario;
     }
 }
