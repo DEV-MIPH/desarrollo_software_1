@@ -156,3 +156,62 @@
         "telefonoConductor": "+56944556677"
     }
 ]
+
+[
+    {
+        "id": 1,
+        "idMascota": 201,
+        "IdPropietario": 101,
+        "precio": 1000,
+        "nombre": "Corredor de Perros",
+        "descripcion": "Competición para corredores de perros",
+        "fecha": "2025-05-10",
+        "ubicacion": "Valparaíso",
+        "estado": "En curso"
+        
+    },
+    {
+        "id": 2,
+        "idMascota": 203,
+        "IdPropietario": 103,
+        "precio": 1500,
+        "nombre": "Corredor de Gatos",
+        "descripcion": "Competición para corredores de gatos",  
+        "fecha": "2025-05-12",
+        "ubicacion": "Valparaíso",
+        "estado": "Completado"
+    },
+    {
+        "id": 3,
+        "idMascota": 202,
+        "IdPropietario": 102,
+        "precio": 2000,
+        "nombre": "Corredor de Perros",
+        "descripcion": "Competición para corredores de perros",
+        "fecha": "2025-05-15",
+        "ubicacion": "Valparaíso",
+        "estado": "Pendiente"
+    },
+    {
+        "id": 4,
+        "idMascota": 205,
+        "IdPropietario": 105,
+        "precio": 2500,
+        "nombre": "Corredor de Gatos",
+        "descripcion": "Competición para corredores de gatos",  
+        "fecha": "2025-05-18",
+        "ubicacion": "Valparaíso",
+        "estado": "Cancelado"
+    },
+    {
+        "id": 5,
+        "idMascota": 204,
+        "IdPropietario": 104,
+        "precio": 3000,
+        "nombre": "Corredor de Perros",
+        "descripcion": "Competición para corredores de perros",
+        "fecha": "2025-05-20",
+        "ubicacion": "Valparaíso",
+        "estado": "Pendiente"
+    }
+]
